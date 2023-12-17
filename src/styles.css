@@ -136,6 +136,12 @@ input:checked + .button::before {
 .status {
   margin-bottom: 10px;
 }
+
+div.status {
+  font-size: 36px;
+  font-weight: bold;
+}
+
 .game {
   display: flex;
   flex-direction: row;
